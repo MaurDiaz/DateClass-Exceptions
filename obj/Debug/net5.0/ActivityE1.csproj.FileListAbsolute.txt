@@ -1,0 +1,16 @@
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.csproj.AssemblyReference.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.AssemblyInfoInputs.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.AssemblyInfo.cs
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.csproj.CoreCompileInputs.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.exe
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.deps.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.runtimeconfig.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.runtimeconfig.dev.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ref\ActivityE1.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\bin\Debug\net5.0\ActivityE1.pdb
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ref\ActivityE1.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.pdb
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Extra\ActivityE1\obj\Debug\net5.0\ActivityE1.genruntimeconfig.cache
