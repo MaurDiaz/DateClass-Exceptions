@@ -8,7 +8,7 @@ namespace ActivityE1
         {
 
         }
-        public InvalidDateException(int date):base(String.Format($"Invalid {date} format"))
+        public InvalidDateException(string date):base(String.Format($"Invalid {date} range"))
         {
 
         }
