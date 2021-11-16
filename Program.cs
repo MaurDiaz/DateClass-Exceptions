@@ -34,30 +34,31 @@ namespace ActivityE1
             }while(!hasRightFormat);
             
             hasRightFormat = false;
-            Console.WriteLine(date.LeapYear(date.Year));
 
-            // do{
-            //     try
-            //     {
-            //         Console.WriteLine("Enter a month:");
-            //         month = int.Parse(Console.ReadLine());
-            //         if(month < 1 || month > 12 )
-            //         {
-            //             throw new InvalidDateException(month);
-            //         }
-            //     }
-            //     catch(InvalidDateException e)
-            //     {
-            //         Console.WriteLine(e.Message);
-            //         Console.WriteLine("Month must be between 1 and 12. Please try again.");
-            //     }
-            //     catch(FormatException)
-            //     {
-            //         Console.WriteLine("Invalid input. Please try again.");
-            //     }
-            //     hasRightFormat = true;
-            // }while(!hasRightFormat);
+            do{
+                try
+                {
+                    Console.WriteLine("Enter a month:");
+                    month = int.Parse(Console.ReadLine());
+                    if(month < 1 || month > 12 )
+                    {
+                        throw new InvalidDateException(month);
+                    }
+                    date.Month = month;
+                    hasRightFormat = true;
+                }
+                catch(InvalidDateException e)
+                {
+                    Console.WriteLine(e.Message);
+                    Console.WriteLine("Month must be between 1 and 12. Please try again.");
+                }
+                catch(FormatException)
+                {
+                    Console.WriteLine("Invalid input. Please try again.");
+                }
+            }while(!hasRightFormat);
 
+            
             // Console.WriteLine("Enter a month:");
             // month = int.Parse(Console.ReadLine());
             // Console.WriteLine("Enter a day:");
