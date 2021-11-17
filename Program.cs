@@ -65,7 +65,6 @@ namespace ActivityE1
                 {
                     Console.WriteLine("Enter a day:");
                     day = int.Parse(Console.ReadLine());
-                    
                     if(date.LeapYear(date.Year) == true && date.Month == 2)
                     {
                         if(day < 1 || day > 29)
@@ -97,13 +96,8 @@ namespace ActivityE1
                     Console.WriteLine("Invalid input. Please try again.");
                 }
             }while(!hasRightFormat);
-            // Console.WriteLine("Enter a month:");
-            // month = int.Parse(Console.ReadLine());
-            // Console.WriteLine("Enter a day:");
-            // day = int.Parse(Console.ReadLine());
-      //validate whether the date was created correctly and catch an error if not
-      //catch any format errors as well
-      Console.Read();
+        Console.WriteLine($"Entered date: {date.ToString()}");
+        Console.Read();
         }
     }
 }

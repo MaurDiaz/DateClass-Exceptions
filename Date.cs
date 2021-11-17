@@ -42,6 +42,10 @@ namespace ActivityE1
             }
             return isLeapYear;
         }
+        public override string ToString()
+        {
+            return $"{this.Year.ToString()}-{this.Month.ToString()}-{this.Day.ToString()}";
+        }
 
     }
 }
